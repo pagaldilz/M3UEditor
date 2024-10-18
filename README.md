@@ -13,6 +13,9 @@ Automatic Sorting: The M3U file is saved with the groups sorted alphabetically b
 
 Usage:
 Run the script and enter the path to your M3U file.
+
 The script will export the GroupTitles.txt file and prompt you to modify it if needed.
+
 After modifying the file, the script filters the M3U file to keep only the groups listed in GroupTitles.txt.
+
 The filtered M3U file is saved with a timestamp to indicate the changes.
