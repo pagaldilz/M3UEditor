@@ -1,4 +1,4 @@
-# M3UEditor
+# M3U Playlist Editor
 Python script to edit m3u files using the group tag
 This script is generated using ChatGPT
 
